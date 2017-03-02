@@ -1,0 +1,26 @@
+body {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#display {
+    height: 2em;
+    width: 200px;
+    max-width: inherit;
+    text-align: right;
+    font-size: 20px;
+    overflow: auto;
+    border-style: solid;
+}
+.button {
+    border-color: #527547;
+    text-align: center;
+    font-size: 35px;
+    max-width: 5px;
+    background-color: darkslategrey;
+    padding: 5px;
+}
+.button a {
+    text-decoration: none;
+    font-size: 35px;
+    color: azure;
+}

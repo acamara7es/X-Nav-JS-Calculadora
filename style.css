@@ -2,6 +2,7 @@ body {
     margin-top: 20px;
     margin-left: 20px;
 }
+
 #display {
     height: 2em;
     width: 200px;
@@ -11,6 +12,7 @@ body {
     overflow: auto;
     border-style: solid;
 }
+
 .button {
     border-color: #527547;
     text-align: center;
@@ -19,6 +21,7 @@ body {
     background-color: darkslategrey;
     padding: 5px;
 }
+
 .button a {
     text-decoration: none;
     font-size: 35px;

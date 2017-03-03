@@ -14,9 +14,9 @@ Para empezar, puede hacerse la calculadora sin tener en cuenta las condiciones  
 Es  importante  darse  cuenta  de  que  cuando  se  almacene  el  primer  sumando, ha de ser en una variable que esté disponible cuando posteriormente se realice la suma. En particular, es conveniente recordar que las variables locales a una función desaparecen cuando termina la ejecución de la función. Al terminar la funcionalidad del ejercicio, se puede utilizar CSS (por ejemplo, propiedades como el color de fondo) para dar una apariencia un poco más adecuada a la calculadora
 
 ## Resultado
-[http://acamara7es.github.io/X-Nav-JS-Calculadora/index.html](http://acamara7es.github.io/X-Nav-JS-Calculadora/index.html)
+[https://acamara7es.github.io/X-Nav-JS-Calculadora/index.html](https://acamara7es.github.io/X-Nav-JS-Calculadora/index.html)
 
 ## Comentarios y mejoras
- Tras terminar con lo que el enunciado pedía estrictamente, decidí que la calculadora debería tener soporte para más de un dígito en cada operando. Esta modificación puede verse [aquí](http://acamara7es.github.io/X-Nav-JS-Calculadora/index2.html).
+ Tras terminar con lo que el enunciado pedía estrictamente, decidí que la calculadora debería tener soporte para más de un dígito en cada operando. Esta modificación puede verse [aquí](https://acamara7es.github.io/X-Nav-JS-Calculadora/index2.html).
 
  En ambos casos, la calculadora tiene en cuenta si se han introducido los operandos correctamente antes de hacer la operación (incluso si pulsa el símbolo "+" antes de escribir el primer operando también da error).
